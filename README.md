@@ -39,7 +39,4 @@ Install with python
 - Auto Checkin Daily
 - Multi Account
 
-## Screenshots
-
-![App Screenshot](https://i.ibb.co.com/BBJtKwp/Cuplikan-layar-2024-06-01-190624.png)
 
