@@ -38,12 +38,12 @@ while True:
     print(Fore.YELLOW + Style.BRIGHT + f"2. Custom Tribe (Input your tribe id)")
     tribe_selection = input(Fore.YELLOW + Style.BRIGHT + "Select Tribe: ").strip()
     if tribe_selection == "1":
-        tribe_id = "019183e9-289c-77b0-96b9-a09a50531668"
+        tribe_id = "2aac7582-9419-4760-9b4d-4112105a6942"
         break
     elif tribe_selection == "2":
         print(Fore.YELLOW + Style.BRIGHT + "HAH !!! SIKE !!!, MODIF THE CODE BY YOURSELF IF YOU WANT TO CUSTOM JOIN THE TRIBE !!")
         print(Fore.YELLOW + Style.BRIGHT + "Using default tribe: Akademi Pengemis")
-        tribe_id = "019183e9-289c-77b0-96b9-a09a50531668"
+        tribe_id = "2aac7582-9419-4760-9b4d-4112105a6942"
         break
     else:
         print(Fore.RED + Style.BRIGHT + "Invalid selection. Please select again.")
