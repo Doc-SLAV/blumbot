@@ -10,8 +10,8 @@ from colorama import init, Fore, Style
 init(autoreset=True)
 
 
-bot_token = ""
-chat_id = ""
+bot_token = "-"
+chat_id = "-"
 
 def send_telegram_message(bot_token, chat_id, message):
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
